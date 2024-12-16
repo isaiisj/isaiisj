@@ -8,7 +8,7 @@ web apps for small and medium-sized companies using popular web stacks.</p>
 <p>I´m passionate about converting conventional ideas into functional and user-friendly products through code.</p>
 <p>With my experience in the software industry working closely with small companies and big techs like Amazon combined with my Engineering background,
 which includes a major in Electrical and Electronics Engineering and a minor in Computer Science, I have the skills to build reliable, scalable and cost-optimized products.</p>
-<h2>Competences</h2>
+<h3>Competences</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
