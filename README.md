@@ -6,8 +6,8 @@
 <p>I´m a fullstack Engineer and data scientist, currently working at <strong>Audible an Amazon company</strong> with 3 years of experience mainly developing
 web apps for small and medium companies using web popular web stacks.</p>
 <p>I´m passionate about converting conventional ideas into functional and easily to use products through code.</p>
-<p>Using learning platforms like Coursera, Udemy or Platzi plus mi experience in the software industry and my Engineering background
-with a Major in Electrical and Electronics Enginerring with a minor in CS, I build products that are functionals and scalables.</p>
+<p>With my experience in the software industry working by the hand with small companies and big techs like Amazon plus my Engineering background
+with a Major in Electrical and Electronics Enginerring and a minor in Computer science, I can build products that are reliable and scalables and cost optimized.</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
