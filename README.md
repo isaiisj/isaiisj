@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h2>About me</h2>
-<p>I´m a Fullstack Engineer and Data Scientist, currently working at <strong>Audible, an Amazon company</strong>, with 3 years of experience primarily developing
+<p>I´m a Fullstack Engineer and Data Scientist, currently working at <strong>Audible an Amazon company</strong>, with 3 years of experience primarily developing
 web apps for small and medium-sized companies using web popular web stacks.</p>
 <p>I´m passionate about converting conventional ideas into functional and user-friendly products through code.</p>
 <p>With my experience in the software industry working closely with small companies and big techs like Amazon combined with my Engineering background,
