@@ -5,7 +5,7 @@
 <h2>About me</h2>
 <p>I´m a fullstack Engineer and data scientist, currently working at <strong>Audible an Amazon company</strong> with 3 years of experience mainly developing
 web apps for small and medium companies using web popular web stacks.</p>
-<p>I´m passionate about converting conventional ideas into functional and easily to use products through code.</p>
+<p>I´m passionate about converting conventional ideas into functional and easily to use products using code.</p>
 <p>With my experience in the software industry working by the hand with small companies and big techs like Amazon plus my Engineering background
 with a Major in Electrical and Electronics Enginerring and a minor in Computer science, I can build products that are reliable and scalables and cost optimized.</p>
 <div>
