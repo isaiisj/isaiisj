@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h2>About me</h2>
-<p>I´m a fullstack Engineer and data scientist, currently working at <strong>Audible an Amazon company</strong> with 3 years of experience mainly developing
-web apps for small and medium companies using web popular web stacks.</p>
-<p>I´m passionate about converting conventional ideas into functional and easily to use products using code.</p>
-<p>With my experience in the software industry working by the hand with small companies and big techs like Amazon plus my Engineering background
-with a Major in Electrical and Electronics Enginerring and a minor in Computer science, I can build products that are reliable and scalables and cost optimized.</p>
+<p>I´m a Fullstack Engineer and Data Scientist, currently working at <strong>Audible, an Amazon company</strong>, with 3 years of experience primarily developing
+web apps for small and medium-sized companies using web popular web stacks.</p>
+<p>I´m passionate about converting conventional ideas into functional and user-friendly products through code.</p>
+<p>With my experience in the software industry working closely with small companies and big techs like Amazon combined with my Engineering background,
+which includes a Major in Electrical and Electronics Enginerring and a minor in Computer science, I have the skills to build reliable, scalable and cost-optimized products.</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
