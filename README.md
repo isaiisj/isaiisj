@@ -35,7 +35,7 @@ which includes a major in Electrical and Electronics Engineering and a minor in 
 </div>
 <h3>Miscellaneous</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
 </div>
 
 
