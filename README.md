@@ -40,7 +40,6 @@ which includes a major in Electrical and Electronics Engineering and a minor in 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
